@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Languages-8-blue"/>
   <img src="https://img.shields.io/badge/Schemes-10-green"/>
   <img src="https://img.shields.io/badge/Deployed-AWS_Amplify-orange"/>
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg"/>
+  <a href="https://github.com/WantedChip/Neta.ai/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"/></a>
 </p>
 
 ---
