@@ -428,7 +428,7 @@ A pothole reported as "sadak pe gadha ho gaya" in Bhojpuri cannot be keyword-mat
 
 ## 👨‍💻 Team BEER BROS
 
-**Abhiroop Hiremath** — Team Lead | AI for Bharat Hackathon 2026
+AI for Bharat Hackathon 2026
 
 ---
 
